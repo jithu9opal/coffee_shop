@@ -1,3 +1,4 @@
+#small steps
 class Coffee:
     def __init__(self, name, price):
         self.name = name
@@ -80,3 +81,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
